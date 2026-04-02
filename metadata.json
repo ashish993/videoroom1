@@ -1,0 +1,5 @@
+{
+  "name": "RoomCall: Video & Chat",
+  "description": "A real-time room-based video calling and chat application with no external database.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"]
+}
